@@ -10,7 +10,9 @@ using std::string;
 using std::getline;
 using std::stringstream;
 
+#include "ADTs.hpp"
 #include "auxiliary_functions.hpp"
+#include "functions.hpp"
 
 void arithmeticAverage();
 void weightedArithmeticMean();
