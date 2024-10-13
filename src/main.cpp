@@ -2,6 +2,6 @@
 
 int main()
 {
-    arithmeticAverage();
+    weightedArithmeticMean();
     return 0;
 }

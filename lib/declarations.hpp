@@ -14,6 +14,6 @@ using std::stringstream;
 #include "auxiliary_functions.hpp"
 #include "functions.hpp"
 
-void arithmeticAverage();
+void arithmeticMean();
 void weightedArithmeticMean();
-void geometricMean();
+//void geometricMean();
