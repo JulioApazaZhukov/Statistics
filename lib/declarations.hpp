@@ -16,4 +16,4 @@ using std::stringstream;
 
 void arithmeticMean();
 void weightedArithmeticMean();
-//void geometricMean();
+void geometricMean();

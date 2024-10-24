@@ -30,7 +30,7 @@ void arithmeticMean ()
     }
 }
 
-void weightedArithmeticMean() {
+void weightedArithmeticMean () {
     string sInput, sWeight;
     float fInput, fWeight;
     DynamicArray<float> valuesArray;
@@ -82,4 +82,9 @@ void weightedArithmeticMean() {
     } else {
         cout << "No numbers entered." << endl;
     }
+}
+
+void geometricMean ()
+{
+    cout << "Not yet";
 }

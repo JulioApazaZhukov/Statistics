@@ -1,5 +1,4 @@
 #include "..\lib\declarations.hpp"
-#include "..\lib\functions.hpp"
 #include <windows.h>
 #include <cmath>
 #include <iomanip>
