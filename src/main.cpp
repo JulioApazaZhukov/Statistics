@@ -4,7 +4,9 @@ int main ()
 {
     int opt;
     cout << "Select option 1 or 2: ";
-    cin >> opt; // Switch bug
+    cin >> opt;
+
+    cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
     switch (opt)
     {
